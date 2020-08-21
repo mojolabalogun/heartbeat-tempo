@@ -1,0 +1,7 @@
+# Don't include virtualenv.
+venv/
+
+# Don't include video files.
+*.mp4
+
+.idea/
